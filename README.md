@@ -36,7 +36,7 @@ Regional managers provide sugar-coated reports and overwhelming Excel files, mak
 <br>
  ### AIIMS Grid
   By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-
+   ![image](Images/AIMS.jpg)
 
 # <h2 id="link3">Main Goal</h2>
 <br>
@@ -58,6 +58,8 @@ In the data modeling phase, we have utilized the star schema for organizing and 
 In this approach, we have a central fact table representing the primary focus of our analysis, such as sales transactions. This fact table contains key performance indicators (KPIs) and measures related to sales, such as revenue, quantity sold, and discounts.
 
 Surrounding the fact table, we have multiple dimension tables representing different aspects of the sales data. These dimensions include tables like customer, product, date, and market. Each dimension table contains descriptive attributes that provide context and additional details about the corresponding aspect of the sales transaction.
+
+![image](Images/Data_Modelling.PNG)
 
 
 # <h2 id="link6">DAX</h2>
@@ -94,6 +96,6 @@ Total Profit Margin = sum('sales transactions'[profit_margin])
 <br>
 The sales dashboard can offer a visually appealing and user-friendly experience. It will enable stakeholders to easily navigate through sales data visualizations, interact with filters and controls, and access relevant insights effortlessly. The UI/UX design ensures that the dashboard becomes an intuitive and valuable tool for decision-making, enhancing the overall effectiveness of the sales analytics solution.
 
-![image](Images/HR_Final_Dashboard.JPG)
+![image](Images/Hardware_sales_insights.PNG)
 
 <br>
