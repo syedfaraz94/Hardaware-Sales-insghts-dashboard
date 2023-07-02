@@ -96,6 +96,8 @@ Total Profit Margin = sum('sales transactions'[profit_margin])
 <br>
 The sales dashboard can offer a visually appealing and user-friendly experience. It will enable stakeholders to easily navigate through sales data visualizations, interact with filters and controls, and access relevant insights effortlessly. The UI/UX design ensures that the dashboard becomes an intuitive and valuable tool for decision-making, enhancing the overall effectiveness of the sales analytics solution.
 
+
+
 ![image](Images/Hardware_sales_insights.PNG)
 
 <br>
