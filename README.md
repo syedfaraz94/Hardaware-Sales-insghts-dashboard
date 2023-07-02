@@ -36,7 +36,10 @@ Regional managers provide sugar-coated reports and overwhelming Excel files, mak
 <br>
  ### AIIMS Grid
   By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-   ![image](Images/AIMS.jpg)
+  
+  ![image](Images/AIMS.jpg)
+
+  <br>
 
 # <h2 id="link3">Main Goal</h2>
 <br>
