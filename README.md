@@ -101,5 +101,5 @@ The sales dashboard can offer a visually appealing and user-friendly experience.
 
 
 
-![image](Images/Hardware_sales_insights.PNG)
+![image](Images/Hardware_sales_Insights.PNG)
 <br>
